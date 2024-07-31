@@ -16,19 +16,19 @@
 如果您想要在本项目代码的基础上加上自己的东西。只需要下载go的编译环境，vscode，以及相关插件即可。最后在项目目录终端输入go mod tidy，下载所需的gin框架。
 # 项目结构
 文件结构如下：
-public 
-  |---css 
-  |---iocs 
-  |---javascript 
-  |---picture 
-  |---exit.html 
-  |---game.html 
-  |---login.html 
-  |---main.html 
-go.sum 
-go.mod 
-main.go 
-main.exe 
+public <br>
+  |---css <br>
+  |---iocs <br>
+  |---javascript <br>
+  |---picture <br>
+  |---exit.html <br>
+  |---game.html <br>
+  |---login.html <br>
+  |---main.html <br>
+go.sum <br>
+go.mod <br>
+main.go <br>
+main.exe <br>
 1. main.go是后端代码
 2. 每一个html文件对于一个页面
 3. css,javascript文件夹存放html对应的css,js文件
