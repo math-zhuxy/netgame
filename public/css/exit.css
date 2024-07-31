@@ -1,0 +1,17 @@
+#backtomainbutton{
+    font-size: 30px;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: rgb(7, 159, 15);
+    display: block;
+    margin: auto;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}

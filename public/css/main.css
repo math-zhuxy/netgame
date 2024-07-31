@@ -1,0 +1,38 @@
+.postLink {
+    margin: auto;
+    width: 90%;
+    background: rgba(255, 255, 255, 0.374);
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    backdrop-filter: blur(2px);
+}
+.paragraph{
+    text-indent: 2em; /* 段落前空格，这里设置为2个em单位的空格 */
+    margin-bottom: 1em; /* 段落间距，可根据需要调整 */
+    line-height: 1.5; /* 行高，使文本更易读 */
+    word-wrap: break-word; /* 单词内换行 */
+    width: auto; /* 设置 p 元素的宽度，约20个字的宽度 */
+    font-size: 18px;
+    color: rgb(8, 30, 1);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.anopar{
+    margin-bottom: 1em; /* 段落间距，可根据需要调整 */
+    line-height: 1.5; /* 行高，使文本更易读 */
+    word-wrap: break-word; /* 单词内换行 */
+    width: auto;/* 设置 p 元素的宽度，约20个字的宽度 */
+    font-size: 18px;
+    color: rgb(8, 30, 1);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.button{
+    cursor: pointer;
+    border-radius: 30px;
+    width: 150px;
+    height: 40px;
+    background-color: rgb(89, 9, 130);
+    font-size: 18px;
+    display: block;
+    margin: auto;
+}

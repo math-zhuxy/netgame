@@ -1,0 +1,36 @@
+.title{  
+    text-align: center;
+    font-size: 30px;
+}
+#gamebutton_1{
+    font-size: 20px;
+    width: auto;
+    height: 40px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: darkslateblue;
+}
+#gamebutton_2{
+    font-size: 20px;
+    width: auto;
+    height: 40px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: rgb(94, 141, 28);
+}
+#GameCanvas{
+    border: 1px solid #a12121;
+    display: block;
+    margin: 0 auto;
+    display: none;
+    text-align: center;
+}
+#gamestartdiv{
+    text-align: center;
+}
+#gamestartimg{
+    width: 900px;
+    height: auto;
+}
